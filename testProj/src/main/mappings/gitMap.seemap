@@ -1,0 +1,12 @@
+(:
+gitMap.seemap
+created at Apr 19, 2024 by doo
+:)
+
+
+
+
+root  { 
+  first := "first row"
+  second := "second row"
+}
